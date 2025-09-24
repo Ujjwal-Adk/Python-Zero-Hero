@@ -38,3 +38,34 @@ print(type(city))
 print(type(grades))
 print(type(height))
 print(type(is_married))
+
+
+#Doing math with the python 
+# We will also be clear about the operators that are going to be used in python 
+
+number_1 = 10
+number_2 = 5
+
+#Addition 
+result = number_1 + number_2
+print(result)
+
+#Subtraction 
+result = number_1 - number_2
+print(result)
+
+#Multiplication 
+result = number_1 * number_2
+print(result)
+
+#Division 
+result = number_1 / number_2  # gives decimal result 
+result = number_1 // number_2 # gives integers result 
+
+# Remainder 
+result = number_1 % number_2
+print(result)
+
+# Power 
+result = number_1 ** number_2
+print(result)
