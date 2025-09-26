@@ -60,7 +60,10 @@ print(result)
 
 #Division 
 result = number_1 / number_2  # gives decimal result 
+print(result)
+
 result = number_1 // number_2 # gives integers result 
+print(result)
 
 # Remainder 
 result = number_1 % number_2
