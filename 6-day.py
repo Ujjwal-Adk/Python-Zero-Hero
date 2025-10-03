@@ -15,3 +15,10 @@ print("loop sucessfully executed ! ")
 # So we also can give the incerement while making the loops
 for i in range(1,10,2): #(x,y-1,increment)
     print(i) 
+
+print("loop sucesfully executed !! ")
+
+# counting backwards 
+for i in range (10,0,-1):
+    print(i)
+
